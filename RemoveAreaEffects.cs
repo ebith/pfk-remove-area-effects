@@ -98,6 +98,7 @@ namespace RemoveAreaEffects
             "b21bc337e2beaa74b8823570cd45d6dd", // Sirocco
             "bb87c7513a16b9a44b4948a4e932a81b", // Sirocco (shadow)
             "16e0e4c6a16f68c49832340b93706499", // Spike Growth
+            "eca936a9e235875498d1e74ff7c09ecd", // Spike Stones
             "beccc33f543b1f8469c018982c23ac06", // Spiked Pit
             "aa2e0a0fe89693f4e9205fd52c5ba3e5", // Stinking Cloud
             "1d649d8859b25024888966ba1cc291d1", // Volcanic Storm
