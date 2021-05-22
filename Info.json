@@ -1,10 +1,9 @@
 {
   "Id": "RemoveAreaEffects",
   "DisplayName": "Remove Area Effects",
-  "Author": "v1ld",
-  "Version": "1.0.3",
-  "ManagerVersion": "0.12.2",
+  "Author": ["v1ld", "ebith"],
+  "Version": "1.0.4",
+  "ManagerVersion": "0.23.4",
   "EntryMethod": "RemoveAreaEffects.Main.Load",
-  "HomePage": "https://github.com/v1ld/pfk-remove-area-effects",
-  "Repository": "https://raw.githubusercontent.com/v1ld/pfk-remove-area-effects/master/Repository.json"
+  "HomePage": ["https://github.com/v1ld/pfk-remove-area-effects", "https://github.com/ebith/pfk-remove-area-effects"]
 }
