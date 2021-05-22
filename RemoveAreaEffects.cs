@@ -132,7 +132,7 @@ namespace RemoveAreaEffects
             "2eef9ca9e79968547a01d06d3828e17f", // WallSandstormBlastArea
             "6a64cc20d5820dc4cb3907b36ce6ac13", // WallSteamBlastArea
             "757b40456bbe27a46bbf18a57d64f31b", // WallThunderstormBlastArea
-            "bb4ddd5e7d64a4a49ba71fe8275d1553", // WallWaterBlastArea
+            "bb4ddd5e7d64a4a49ba71fe8275d1552", // WallWaterBlastArea
         };
 
         internal static void NotifyPlayer(string message, bool warning = false)
