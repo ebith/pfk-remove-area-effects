@@ -101,6 +101,7 @@ namespace RemoveAreaEffects
             "eca936a9e235875498d1e74ff7c09ecd", // Spike Stones
             "beccc33f543b1f8469c018982c23ac06", // Spiked Pit
             "aa2e0a0fe89693f4e9205fd52c5ba3e5", // Stinking Cloud
+            "d59890fb468915946bae085439bd0881", // Tar Pool
             "1d649d8859b25024888966ba1cc291d1", // Volcanic Storm
             "1f45c8b0a735097439a9dac04f5b0161", // Volcanic Storm (shadow)
             "fd323c05f76390749a8555b13156813d", // Web
